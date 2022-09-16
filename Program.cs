@@ -40,6 +40,7 @@ is2Number = false;
         break;
       default:
         Console.WriteLine("Uh oh, you picked wrong, try again.");
+        chosenOperator = "";
         break;
     }
   } 
